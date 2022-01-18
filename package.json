@@ -1,0 +1,15 @@
+{
+  "name": "primeros-pasos",
+  "version": "1.0.0",
+  "description": "programa para empezar a ver node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "daw2",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  }
+}
